@@ -1,0 +1,38 @@
+
+.posts {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  width: 97%;
+}
+  
+.posts h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+  
+.post {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+  
+.post h3 {
+  margin-bottom: 5px;
+  font-size: 1.2rem;
+}
+  
+.comments {
+  margin-top: 10px;
+}
+  
+.comment {
+  background-color: #a1e790;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+}
+  
